@@ -1,0 +1,21 @@
+.custom-jumbotron {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.btn {
+  padding: 0.75rem 1.25rem;
+}
+
+.btn-primary {
+  background-color: #626cd6;
+  border-color: #626cd6;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  text-decoration: none;
+  background: #4954d0;
+}

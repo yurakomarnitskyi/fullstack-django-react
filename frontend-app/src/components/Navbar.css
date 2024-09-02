@@ -1,0 +1,15 @@
+.navbar-style {
+  padding-left: 20px;
+}
+
+.navbar .nav-link {
+  text-decoration: none;
+}
+
+.navbar .nav-link:hover {
+  color: #7d899853;
+}
+
+.navbar-style .navbar-brand {
+  text-decoration: none;
+}
